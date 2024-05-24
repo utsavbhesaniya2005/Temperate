@@ -5,9 +5,7 @@ main(){
 	
 	do{
 		
-		printf("%c\t", ch);
+		printf("%c", ch);
 		ch++;
-		
 	}while(ch<='z');
-	
 }

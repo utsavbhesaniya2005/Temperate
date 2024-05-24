@@ -12,6 +12,5 @@ main(){
 		}
 		fact = fact * i;
 	}
-	printf("Factorial Number of a %d : %d", n, fact);
-	
+	printf("Factorial Number of a %d : %d", n, fact);	
 }
